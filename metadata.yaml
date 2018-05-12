@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9224
     wikipedia: https://en.wikipedia.org/wiki/Geraldine_Mitton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25804#The-Children-s-Book-of-London
 gutenberg_issued: '2008-06-15'
 gutenberg_type: Text
 identifiers:
